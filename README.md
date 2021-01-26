@@ -1,2 +1,2 @@
 # INM431-Machine-Learning
-Machine Learning with MATLAB
+Machine Learning Coursework with MATLAB
